@@ -6,16 +6,20 @@ The Course includes all the basic concepts of Python. Python Programming Languag
 
 ## The Topics Covered in this Tutorial
 
-* Variables
-* Data Types
-* Operators
-* Strings
-* Loops and Conditionals
-* Lists
-* Dictionaries
-* Classes and Objects
-* Date and Time
-* Regular Expressions
-* Functional Programming
+* Introduction to Variables
+* Introduction to Data Types
+* Introduction to Operators
+* Introduction to Strings
+* Introduction to Loops and Conditionals
+* Introduction to Lists
+* Introduction to Dictionaries
+* Introduction to Classes and Objects
+* Introduction to Date and Time
+* Introduction to Regular Expressions
+* Introduction to Functional Programming
 
 * There are Practice Questions to practice, also the solution is provided.
+In case of any Queries and Doubts please contact me on lInkedin.
+My Linkedin Profile Link: https://www.linkedin.com/in/roshansharmadatascience/
+
+Thanks and Happy Learning!
